@@ -1,0 +1,17 @@
+.container-short{
+    margin: 0 auto;
+    float: none;
+    max-width: 750px!important;
+}
+
+
+.mar-20{
+    margin-top:15%
+}
+.error h4{
+    color: rgb(63, 60, 60);
+}
+
+.error h5{
+    color:rgb(63, 60, 60);
+}
